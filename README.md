@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Felices XV Años Mi Medialuna</title>
+    <!-- Enlaza el favicon -->
+    <link rel="icon" href="c:\AppServ\www\Visual Studio\Imágenes\cora.png" type="image/x-icon">
+  <link rel="shortcut icon" href="c:\AppServ\www\Visual Studio\Imágenes\cora.png" type="image/x-icon">
+<!-- Imagen de fondo -->
+ <body background="c:\AppServ\www\Visual Studio\Imágenes\coras.webp">
+    <!-- O bien color de fondo -->
+  <!-- <body bgcolor="#ffcc00"> -->
+    <h1><center>Esto es un regalo especial a mi amada novia y futura esposa Andrea por su cumpleaños</center></h1>
+    <p>Andrea, en este día tan especial quiero que sepas cuánto significas para mí.</p>
+<marquee behavior="scroll" direction="right" scrollamount="20">
+    <img src="c:\AppServ\www\Visual Studio\Imágenes\Imagen de WhatsApp 2025-06-30 a las 22.31.42_df0478a2.jpg" 
+    width="320px" height="330px">
+    <img src="c:\AppServ\www\Visual Studio\Imágenes\Imagen de WhatsApp 2025-06-30 a las 22.32.59_60ff04f1.jpg" 
+    width="310px" height="330px">
+    <img src="c:\AppServ\www\Visual Studio\Imágenes\Imagen de WhatsApp 2025-06-30 a las 22.34.07_6cbdb38b.jpg"
+    width="275px" height="330px">
+    <img src="c:\AppServ\www\Visual Studio\Imágenes\Imagen de WhatsApp 2025-06-30 a las 22.31.42_00463eb3.jpg"
+    width="280px" height="330px"></marquee>
+    <hr>
+    <h1>Feliz Cumpleaños, mi amor</h1>
+    <p>Desde el momento en que te conocí, supe que había encontrado a una personita única y especial. 
+        Tu sonrisa ilumina mi mundo y tu risa es la melodía que alegra mis días. 
+        Cada instante a tu lado es un tesoro que guardo con cariño en mi corazón.</p>
+    <p>Desde que llegaste a mi vida, todo ha cambiado para mejor. 
+        Tu amor y tu apoyo incondicional me han dado fuerzas para superar cualquier obstáculo. 
+        Eres una persona increíble, llena de bondad y belleza, tanto por dentro como por fuera.</p>
+       <p>Eres la luz de mi vida y cada día a tu lado es un regalo que atesoro profundamente. 
+        Tu amor y tu risa iluminan mis días y me inspiran a ser mejor. 
+        Espero que este regalo te haga sentir tan especial como tú me haces sentir a mí. 
+        Te amo con todo mi corazón y estoy agradecido por cada momento que compartimos juntos.</p>
+    <p>Feliz cumpleaños, mi amor. Que este nuevo año de vida esté lleno de alegría, amor y muchas bendiciones. 
+        Siempre estaré aquí para ti, apoyándote y amándote en cada paso del camino.</p>
+    <p>Con todo mi amor, Fabrizzio 💘</p>
+</body>
+</html>
